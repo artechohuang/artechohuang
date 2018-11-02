@@ -828,7 +828,6 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos-47{position:relative;margin-left:159px;margin-top:25px;}
 .cont-44{z-index:18;pointer-events:auto;}
 .cont-45{z-index:11;pointer-events:auto;}
-.font-7{font-family:"Istok Web";font-size:14px;font-weight:400;font-style:normal;text-decoration:underline;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:28px;letter-spacing:normal;text-shadow:none;}
 .cont-46{z-index:17;border:0;background-color:rgb(0,0,0);}
 .cont-47{z-index:19;pointer-events:auto;}
 @media (min-width:960px) and (max-width:1199px) {
@@ -845,7 +844,6 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-45{width:960px;height:12px;}
 .img-46{width:960px;height:12px;}
 .pos-47{margin-left:149px;margin-top:-249px;}
-.font-7{font-size:11px;line-height:22px;}
 }
 @media (min-width:768px) and (max-width:959px) {
 .size-41{min-width:768px;width:768px;min-height:754px;}
@@ -861,7 +859,6 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-45{width:768px;height:9px;}
 .img-46{width:768px;height:9px;}
 .pos-47{margin-left:119px;margin-top:-200px;}
-.font-7{font-size:8px;line-height:16px;}
 }
 @media (min-width:480px) and (max-width:767px) {
 .size-41{min-width:480px;width:480px;min-height:471px;}
@@ -877,7 +874,6 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-45{width:480px;height:6px;}
 .img-46{width:480px;height:6px;}
 .pos-47{margin-left:74px;margin-top:-125px;}
-.font-7{font-size:5px;line-height:10px;}
 }
 @media (max-width:479px) {
 .size-41{min-width:320px;width:320px;min-height:314px;}
@@ -893,7 +889,6 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-45{width:320px;height:4px;}
 .img-46{width:320px;height:4px;}
 .pos-47{margin-left:49px;margin-top:-83px;}
-.font-7{font-size:3px;line-height:6px;}
 }
 .js-321 .slider{height:254px;}
 .js-321 .slick-prev, .js-321 .slick-next { height: 20px; width: 20px; margin-top: -10px; }
@@ -1053,9 +1048,10 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-72{left:47px;width:106px;height:150px;top:0;display:inline-block;}
 .img-73{position:absolute;left:0;width:200px;height:136px;top:7px;border:0;}
 .img-74{left:0;width:200px;height:136px;top:7px;display:inline-block;}
-.pos-52{position:relative;margin-left:765px;margin-top:56px;}
+.pos-52{position:relative;margin-left:861px;margin-top:56px;}
+.size-49{min-width:166px;width:166px;min-height:41px;}
 .pos-53{position:relative;margin-left:0;margin-top:53px;}
-.cont-51{z-index:32;border:0;background-color:rgb(0,0,0);}
+.cont-51{z-index:30;border:0;background-color:rgb(0,0,0);}
 @media (min-width:960px) and (max-width:1199px) {
 .js-481 .slider{height:203px;}
 .img-59{left:8px;width:145px;height:120px;}
@@ -1076,6 +1072,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-73{width:160px;height:109px;top:6px;}
 .img-74{width:160px;height:109px;top:6px;}
 .pos-52{margin-left:-169px;margin-top:391px;}
+.size-49{min-width:51px;width:51px;min-height:33px;}
 .pos-53{margin-top:-70px;}
 }
 @media (min-width:768px) and (max-width:959px) {
@@ -1098,6 +1095,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-73{width:128px;height:87px;top:5px;}
 .img-74{width:128px;height:87px;top:5px;}
 .pos-52{margin-left:-135px;margin-top:312px;}
+.size-49{min-width:41px;width:41px;min-height:27px;}
 .pos-53{margin-top:-56px;}
 }
 @media (min-width:480px) and (max-width:767px) {
@@ -1120,6 +1118,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-73{width:80px;height:55px;top:2px;}
 .img-74{width:80px;height:55px;top:2px;}
 .pos-52{margin-left:-84px;margin-top:195px;}
+.size-49{min-width:26px;width:26px;min-height:17px;}
 .pos-53{margin-top:-35px;}
 }
 @media (max-width:479px) {
@@ -1142,5 +1141,6 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-73{width:54px;height:37px;top:2px;}
 .img-74{width:54px;height:37px;top:2px;}
 .pos-52{margin-left:-56px;margin-top:130px;}
+.size-49{min-width:17px;width:17px;min-height:12px;}
 .pos-53{margin-top:-24px;}
 }
