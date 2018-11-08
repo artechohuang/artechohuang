@@ -28,21 +28,21 @@ $('.js-10').attr('src', (dpi>1) ? 'images/21121-2400.jpg' : 'images/21121-1200.j
 $('.js-11').attr('src', (dpi>1) ? 'images/the-complete-works--1760.png' : 'images/the-complete-works--880.png');
 $('.js-13').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-14').attr('src', (dpi>1) ? 'images/pianting-1-copy-404.jpg' : 'images/pianting-1-copy-202.jpg');
-$('.js-15').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-2.png' : 'images/rectangle-3-copy-9-249-2.png');
+$('.js-15').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-16').attr('src', (dpi>1) ? 'images/painting-2-copy-376.jpg' : 'images/painting-2-copy-188.jpg');
-$('.js-17').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-3.png' : 'images/rectangle-3-copy-9-249-3.png');
+$('.js-17').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-18').attr('src', (dpi>1) ? 'images/5-400.jpg' : 'images/5-200.jpg');
-$('.js-19').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-4.png' : 'images/rectangle-3-copy-9-249-4.png');
-$('.js-20').attr('src', (dpi>1) ? 'images/psb-copy-2-404.jpg' : 'images/psb-copy-2-202.jpg');
-$('.js-21').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-5.png' : 'images/rectangle-3-copy-9-249-5.png');
+$('.js-19').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
+$('.js-20').attr('src', (dpi>1) ? 'images/psb-copy-2-404-1.jpg' : 'images/psb-copy-2-202-1.jpg');
+$('.js-21').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-22').attr('src', (dpi>1) ? 'images/wechatimg770-copy-2-396.jpg' : 'images/wechatimg770-copy-2-198.jpg');
-$('.js-23').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-6.png' : 'images/rectangle-3-copy-9-249-6.png');
+$('.js-23').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-24').attr('src', (dpi>1) ? 'images/wechatimg24-copy-2-392.jpg' : 'images/wechatimg24-copy-2-196.jpg');
-$('.js-25').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-7.png' : 'images/rectangle-3-copy-9-249-7.png');
+$('.js-25').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-26').attr('src', (dpi>1) ? 'images/wechatimg763-1-copy-2-314.jpg' : 'images/wechatimg763-1-copy-2-157.jpg');
-$('.js-27').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-8.png' : 'images/rectangle-3-copy-9-249-8.png');
+$('.js-27').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-28').attr('src', (dpi>1) ? 'images/wechatimg739-copy-2-234.jpg' : 'images/wechatimg739-copy-2-117.jpg');
-$('.js-29').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498-9.png' : 'images/rectangle-3-copy-9-249-9.png');
+$('.js-29').attr('src', (dpi>1) ? 'images/rectangle-3-copy-9-498.png' : 'images/rectangle-3-copy-9-249.png');
 $('.js-30').attr('src', (dpi>1) ? 'images/wechatimg762-copy-2-206.jpg' : 'images/wechatimg762-copy-2-103.jpg');
 $('.js-31').attr('src', (dpi>1) ? 'images/xin-lang-wei-bo-biao-zhi-tu-biao_-copy-4-140.png' : 'images/xin-lang-wei-bo-biao-zhi-tu-biao_-copy-4-70.png');
 $('.js-32').attr('src', (dpi>1) ? 'images/facebook29-copy-3-176.png' : 'images/facebook29-copy-3-88.png');
@@ -117,7 +117,7 @@ $('.js-36').attr('src', (dpi>1) ? 'images/facebook29-32.png' : 'images/facebook2
 $('.js-37').attr('src', (dpi>1) ? 'images/instagram-2-32.png' : 'images/instagram-2-16.png');}}};
 if(!window.HTMLPictureElement){$(window).resize(r);r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
-$('.js .slider').slick({lazyLoad: 'ondemand',slidesToShow: 1,slidesToScroll: 1,fade: true,slide: 'div',cssEase: 'linear',speed: 1050,dots: false,arrows: false,infinite: true,autoplay: true,pauseOnHover: false,autoplaySpeed: 2450});$('.js-12 .slider-for').slick({lazyLoad: 'ondemand',slidesToShow: 1,slidesToScroll: 1,arrows: false,fade: true,infinite: true,asNavFor: '.js-12 .slider-nav',});$('.js-12 .slider-nav').slick({slidesToShow: 3,slidesToScroll: 1,asNavFor: '.js-12 .slider-for',centerMode: true,focusOnSelect: true,dots: false,arrows: false,infinite: true,autoplay: true,pauseOnHover: false,autoplaySpeed: 2500});$('.js-75').mouseenter(function() { $.loadImages('images/pianting-1-copy-312-2.jpg', function() { }) });
-$('.js-75').magnificPopup({ type: 'image', closeOnContentClick: true, closeBtnInside: false, mainClass: 'mfp-fade js-75-lightbox mfp-no-margins mfp-with-zoom', image: { verticalFit: true }, zoom: { enabled: true, duration: 300 }, callbacks: { elementParse: function(item) { item.src = 'images/pianting-1-copy-312-2.jpg'; } } });
+$('.js .slider').slick({lazyLoad: 'ondemand',slidesToShow: 1,slidesToScroll: 1,fade: true,slide: 'div',cssEase: 'linear',speed: 1050,dots: false,arrows: false,infinite: true,autoplay: true,pauseOnHover: false,autoplaySpeed: 2450});$('.js-12 .slider-for').slick({lazyLoad: 'ondemand',slidesToShow: 1,slidesToScroll: 1,arrows: false,fade: true,infinite: true,asNavFor: '.js-12 .slider-nav',});$('.js-12 .slider-nav').slick({slidesToShow: 3,slidesToScroll: 1,asNavFor: '.js-12 .slider-for',centerMode: true,focusOnSelect: true,dots: false,arrows: false,infinite: true,autoplay: true,pauseOnHover: false,autoplaySpeed: 2500});$('.js-75').mouseenter(function() { $.loadImages('images/pianting-1-copy-312.jpg', function() { }) });
+$('.js-75').magnificPopup({ type: 'image', closeOnContentClick: true, closeBtnInside: false, mainClass: 'mfp-fade js-75-lightbox mfp-no-margins mfp-with-zoom', image: { verticalFit: true }, zoom: { enabled: true, duration: 300 }, callbacks: { elementParse: function(item) { item.src = 'images/pianting-1-copy-312.jpg'; } } });
 
 });
